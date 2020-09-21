@@ -11,7 +11,7 @@ import json
 import time
 
 ## Executando:
-abra o terminal na pasta test e dê o comando 'python3 soluco.py'
+abra o terminal na pasta test e dê o comando 'python3 solucao.py'
 
 
 
